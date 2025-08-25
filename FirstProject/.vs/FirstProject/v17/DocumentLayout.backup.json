@@ -45,8 +45,7 @@
               "RelativeToolTip": "FirstProject\\Calculator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-22T17:10:12.185Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-22T17:10:12.185Z"
             },
             {
               "$type": "Document",
@@ -58,8 +57,7 @@
               "RelativeToolTip": "FirstProject\\Loops.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAIwF0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-22T17:02:06.019Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-22T17:02:06.019Z"
             },
             {
               "$type": "Document",
@@ -101,9 +99,9 @@
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Programming\\Teaching\\CodeLank\\Practices\\C#-01\\FirstProject\\FirstProject\\Program.cs",
               "RelativeDocumentMoniker": "FirstProject\\Program.cs",
-              "ToolTip": "D:\\Programming\\Teaching\\CodeLank\\Practices\\C#-01\\FirstProject\\FirstProject\\Program.cs",
-              "RelativeToolTip": "FirstProject\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ToolTip": "D:\\Programming\\Teaching\\CodeLank\\Practices\\C#-01\\FirstProject\\FirstProject\\Program.cs*",
+              "RelativeToolTip": "FirstProject\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-18T15:24:04.522Z",
               "EditorCaption": ""
