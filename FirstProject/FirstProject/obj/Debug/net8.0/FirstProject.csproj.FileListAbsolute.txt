@@ -1,0 +1,14 @@
+D:\Programming\Teaching\CodeLank\Practices\C#-01\FirstProject\FirstProject\bin\Debug\net8.0\FirstProject.exe
+D:\Programming\Teaching\CodeLank\Practices\C#-01\FirstProject\FirstProject\bin\Debug\net8.0\FirstProject.dll
+D:\Programming\Teaching\CodeLank\Practices\C#-01\FirstProject\FirstProject\obj\Debug\net8.0\FirstProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Teaching\CodeLank\Practices\C#-01\FirstProject\FirstProject\obj\Debug\net8.0\FirstProject.AssemblyInfoInputs.cache
+D:\Programming\Teaching\CodeLank\Practices\C#-01\FirstProject\FirstProject\obj\Debug\net8.0\FirstProject.AssemblyInfo.cs
+D:\Programming\Teaching\CodeLank\Practices\C#-01\FirstProject\FirstProject\obj\Debug\net8.0\FirstProject.csproj.CoreCompileInputs.cache
+D:\Programming\Teaching\CodeLank\Practices\C#-01\FirstProject\FirstProject\obj\Debug\net8.0\FirstProject.dll
+D:\Programming\Teaching\CodeLank\Practices\C#-01\FirstProject\FirstProject\obj\Debug\net8.0\refint\FirstProject.dll
+D:\Programming\Teaching\CodeLank\Practices\C#-01\FirstProject\FirstProject\obj\Debug\net8.0\FirstProject.pdb
+D:\Programming\Teaching\CodeLank\Practices\C#-01\FirstProject\FirstProject\bin\Debug\net8.0\FirstProject.deps.json
+D:\Programming\Teaching\CodeLank\Practices\C#-01\FirstProject\FirstProject\bin\Debug\net8.0\FirstProject.runtimeconfig.json
+D:\Programming\Teaching\CodeLank\Practices\C#-01\FirstProject\FirstProject\bin\Debug\net8.0\FirstProject.pdb
+D:\Programming\Teaching\CodeLank\Practices\C#-01\FirstProject\FirstProject\obj\Debug\net8.0\FirstProject.genruntimeconfig.cache
+D:\Programming\Teaching\CodeLank\Practices\C#-01\FirstProject\FirstProject\obj\Debug\net8.0\ref\FirstProject.dll
