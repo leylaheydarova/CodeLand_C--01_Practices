@@ -1,17 +1,21 @@
-﻿int number = 1;
-short number2;
-number2 = (short)number;
+﻿int[] numbers = { 1, 23, 765, 233, 54, 12, 876 };
+for (int i = 0; i < numbers.Length; i++)
+{
+    for (int j = i + 1; j < numbers.Length; j++)
+    {
+        int target = numbers[i];
+        if (numbers[i] < numbers[j])
+        {
+            numbers[i] = numbers[j];
+            numbers[j] = target;
+        }
+    }
+}
 
-string eded = "2";
-var hasil = int.Parse(eded) * 2;
+foreach (var number in numbers)
+{
+    Console.WriteLine(number);
+}
 
-string soz = "Cem: ";
-int cem = 2 + 4;
-soz = soz + cem.ToString();
-Console.WriteLine(soz);
-
-//eger kicik tipden boyuye kecid edirsense, birbasa cevrili
-//implicit casting (daxili cevirme) (mudaxilesiz, ozbasina)
-//boyuk tipden kiciye kecende, yaxud elaqesiz tipler cevrilende
-//ona bizim mudaxilemiz lazimdir. 
-//bu da olur Explicit casting (xarici cevirme - proqramist mudaxilesi)
+Array.Sort(numbers);
+Array.Reverse(numbers);
